@@ -8,7 +8,7 @@
 * - Understanding and using if statements to make conditional decisions in code execution.
 * - Using jump statements like break and continue to control the flow of execution in loops and switch statements.
 * - Working with for loops to iterate over a set of elements in Apex.
-* - Understanding collections and using lists and maps to store and manipulate data.
+* - Understanding collections and using list s and maps to store and manipulate data.
 *
 * This class is designed for developers who have a basic understanding of Apex and want to deepen their knowledge
 * in flow control, loops, and collections. By mastering these concepts, developers will be able to write more
